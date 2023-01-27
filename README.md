@@ -7,6 +7,8 @@ Projeto criado para dar funcionalidade em uma lâmpada, alternando a imagem.
 ## Modo Desktop - Ligada
 ![FireShot Capture 014 - Acessa e Apagada - 127 0 0 1](https://user-images.githubusercontent.com/115199808/209884239-e5f4e797-1e42-4f7c-9f0a-476a0d538fc2.png)
 
+<hr>
+
 # IDE Utilizada
 
 <div> 
