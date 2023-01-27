@@ -9,6 +9,12 @@ Projeto criado para dar funcionalidade em uma lâmpada, alternando a imagem.
 
 <hr>
 
+## Link do Deploy (Vercel)
+
+https://acesa-apagada.vercel.app/
+
+<hr>
+
 # IDE Utilizada
 
 <div> 
