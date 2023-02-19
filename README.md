@@ -1,5 +1,7 @@
 # Projeto Lâmpada 💡
-Projeto criado para dar funcionalidade em uma lâmpada, alternando a imagem.
+### Projeto criado para dar funcionalidade em uma lâmpada, alternando a imagem.
+
+<hr>
 
 ## Modo Desktop - Desligada
 ![FireShot Capture 015 - Acessa e Apagada - 127 0 0 1](https://user-images.githubusercontent.com/115199808/209884237-e9903d1e-f455-4250-92b5-6195defdee71.png)
@@ -9,7 +11,7 @@ Projeto criado para dar funcionalidade em uma lâmpada, alternando a imagem.
 
 <hr>
 
-## Link do Deploy (Vercel)
+## Link de Acesso ao Projeto (Vercel)
 
 https://acesa-apagada.vercel.app/
 
